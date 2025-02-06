@@ -27,4 +27,4 @@ Vous pouvez accéder au projet en ligne via ce lien : [Jeu de Niveaux](https://g
 - `js/script.js` : Fichier JavaScript pour initialiser et démarrer le jeu.
 
 ## Auteur
-DOGLIOLI-RUPPERT Germain
+DOGLIOLI-RUPPERT Germain - Licence 3 MIAGE
