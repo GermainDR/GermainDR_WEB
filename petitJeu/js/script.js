@@ -22,6 +22,5 @@ window.onload = () => {
         };
     });
 
-    // Démarrage du jeu
     game.start();
 }; 

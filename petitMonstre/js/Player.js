@@ -19,7 +19,7 @@ class Player {
     }
 
     draw(ctx) {
-        this.rotate(); // Ajout de la rotation ici
+        this.rotate(); 
         ctx.save();
         ctx.translate(this.x, this.y);
         ctx.rotate(this.angle);
